@@ -14,3 +14,7 @@ Dom을 탐색하여 textnode의 값을 변경한다.
 
 	// 예) 시작점으로 document.body를 지정했다.
 	travel(document.body, skip_func, do_func);
+
+# 사용예
+* autolink.js : <https://bitbucket.org/joostory/autolink.js>
+* divtext.js : <https://bitbucket.org/joostory/divtext.js>
