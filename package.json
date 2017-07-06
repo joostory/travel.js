@@ -1,0 +1,16 @@
+{
+  "name": "travel.js",
+  "version": "1.0.0",
+  "description": "Dom을 탐색하여 textnode의 값을 변경한다.",
+  "main": "travel.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@bitbucket.org/joostory/travel.js.git"
+  },
+  "author": "Joo",
+  "license": "MIT",
+  "homepage": "https://bitbucket.org/joostory/travel.js#readme"
+}
